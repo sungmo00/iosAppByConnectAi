@@ -1,8 +1,8 @@
 {
   "ceo": "qwen3-next-80b-a3b-thinking-mlx",
   "youtube": "qwen3.5-27b-claude-4.6-opus-distilled-mlx",
-  "instagram": "text-embedding-nomic-embed-text-v1.5",
-  "designer": "text-embedding-nomic-embed-text-v1.5",
+  "instagram": "qwen3.5-27b-claude-4.6-opus-distilled-mlx",
+  "designer": "qwen3.5-27b-claude-4.6-opus-distilled-mlx",
   "developer": "qwen3.5-27b-claude-4.6-opus-distilled-mlx",
   "business": "qwen3.5-27b-claude-4.6-opus-distilled-mlx",
   "secretary": "qwen3-next-80b-a3b-thinking-mlx",
