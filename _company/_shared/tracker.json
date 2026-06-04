@@ -1,0 +1,174 @@
+{
+  "tasks": [
+    {
+      "id": "20260604220635-fry5",
+      "title": "컬러 시스템 구현 (React Native/Expo theme)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T22:06:35.779Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.085Z"
+    },
+    {
+      "id": "20260604220635-4mph",
+      "title": "타이포그래피 스타일 정의",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T22:06:35.780Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.086Z"
+    },
+    {
+      "id": "20260604220635-uact",
+      "title": "하단 탭 내비게이션 3~5개 설정",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T22:06:35.780Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.087Z"
+    },
+    {
+      "id": "20260604220635-pgmz",
+      "title": "헤더 컴포넌트 제작 (로그인/검색/프로필)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T22:06:35.780Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.088Z"
+    },
+    {
+      "id": "20260604220635-ve2n",
+      "title": "카드 컴포넌트 제작 (제목, 설명, 썸네일, CTA)",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-06-04T22:06:35.781Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.089Z"
+    },
+    {
+      "id": "20260604220918-ww9t",
+      "title": "TypeScript theme 파일 생성 (`theme.ts`)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-04T22:09:18.491Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.090Z"
+    },
+    {
+      "id": "20260604220918-46bp",
+      "title": "React Native 스타일 컴포넌트 제작 (Card, Button, Header)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-04T22:09:18.492Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.091Z"
+    },
+    {
+      "id": "20260604220918-ziow",
+      "title": "Bottom Tab Navigator 설정 (3~5 탭)",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-04T22:09:18.493Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.092Z"
+    },
+    {
+      "id": "20260604220918-bmfq",
+      "title": "각 탭별 기본 화면 구현",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-04T22:09:18.493Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.093Z"
+    },
+    {
+      "id": "20260604220918-p0ze",
+      "title": "터치反馈 (haptic feedback) 적용",
+      "description": "자동 등록 (코다리 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "developer"
+      ],
+      "createdAt": "2026-06-04T22:09:18.493Z",
+      "status": "done",
+      "sessionDir": "2026-06-04T22-02",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-06-04T22-02/_report.md\n- Designer: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n- 코다리: Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화)\n> 🔧 **도구 실행**: _(없음 — LLM 추론만)_\n> 💡 **핵심 산출**: <list_files path=\"~/Dow",
+      "completedAt": "2026-06-04T22:12:23.093Z"
+    }
+  ]
+}
