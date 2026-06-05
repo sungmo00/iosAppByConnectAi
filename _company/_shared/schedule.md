@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 6. 6. 오전 5:18:24_
+_업데이트: 2026. 6. 6. 오전 5:33:56_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -9,9 +9,9 @@ _업데이트: 2026. 6. 6. 오전 5:18:24_
 - [2026-06-04] iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화) → 산출물 sessions/2026-06-04T22-02/designer.md
 - [2026-06-04] 디자인 브리프의 타이포그래피 섹션 구체적 스펙 명시 및 레퍼런스 이미지 5장 추가하여 완성 → 산출물 sessions/2026-06-04T22-17/designer.md
 ### 💻 코다리
-- [2026-06-05] Mobile Kit 프로젝트에서 App.tsx에 하단 탭 내비게이션 구현 및 디자인 브리프의 타이포그래피(SF Pro Display 헤더, SF Pro Text 본문)과 색상(#1C1C1E Primary, #6E6E73 Secondary) 적용한 카드 컴포넌트 개발 → 산출물 sessions/2026-06-05T17-02/developer.md
 - [2026-06-05] Apple Developer API 키 발급 절차 확인 및 시크릿 파일 생성, .gitignore에 추가해 API 키 유출 방지 → 산출물 sessions/2026-06-05T17-32/developer.md
 - [2026-06-05] youtube_account.json 파일 확인 및 유효한 YouTube API 키 추가. 시크릿 관리 체계 점검하여 .gitignore 적용 확인 → 산출물 sessions/2026-06-05T20-17/developer.md
+- [2026-06-05] youtube_account.json 파일 생성 후 YouTube API 키를 추가하고, .gitignore에 youtube_account.json 경로를 추가하여 시크릿 관리 체계 완료 → 산출물 sessions/2026-06-05T20-32/developer.md
 ### 💼 현빈
 - [2026-06-03] Researcher의 보고를 토대로 24시간 내 중복 없는 최적 단일 작업을 선정하고 실행 계획 수립 → 산출물 sessions/2026-06-03T19-02/business.md
 - [2026-06-03] 회사 목표 및 각 에이전트 개인 목표 검토 후 유튜브 콘텐츠 수익화 전략 개선을 위한 3단계 실행 계획 수립 (광고 수익 증대, 티어별 콘텐츠 전략, KPI 성과 모니터링) → 산출물 sessions/2026-06-03T21-32/business.md
