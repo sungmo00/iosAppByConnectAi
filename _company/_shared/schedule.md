@@ -1,16 +1,17 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 6. 6. 오전 12:04:04_
+_업데이트: 2026. 6. 6. 오전 2:49:17_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
 - [2026-06-04] YouTube 트렌드 페이지 직접 확인 후 현재 3개 최신 유망 키워드 선정, iOS 앱 콘텐츠 분석 보고서 작성 → 자격증명 부족으로 차단됨
+- [2026-06-05] YouTube에서 아이폰 앱 개발, UX/UI 트렌드, 사용자 리뷰 관련 최신 영상 50개 분석 후 상위 5개 핵심 주제 및 키워드 목록 작성, 자격증명 확인 후 보고서 생성 → 자격증명 부족으로 차단됨
 ### 🎨 Designer
 - [2026-06-04] iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화) → 산출물 sessions/2026-06-04T22-02/designer.md
 - [2026-06-04] 디자인 브리프의 타이포그래피 섹션 구체적 스펙 명시 및 레퍼런스 이미지 5장 추가하여 완성 → 산출물 sessions/2026-06-04T22-17/designer.md
 ### 💻 코다리
-- [2026-06-05] 카드 컴포넌트 구현 완료 및 하단 탭 내비게이션 통합 작업 진행. 디자인 브리프의 타이포그래피 스펙(#1C1C1E, #6E6E73) 및 폰트 SF Pro Display/Text 적용하고 Expo Bottom Tab Navigator 구현 완료 → 산출물 sessions/2026-06-05T08-51/developer.md
-- [2026-06-05] settings.json의 connectAiLab.streamFirstTokenTimeoutSec 값을 600으로 수정하고 gemma2:2b 같은 소형 모델로 전환하여 LLM 호출 시간 초과 오류 해결 → 산출물 sessions/2026-06-05T11-44/developer.md
-- [2026-06-05] settings.json에서 connectAiLab.streamFirstTokenTimeoutSec 값이 600으로 정확히 설정되었는지 확인하고, gemma2:2b 대신 더 작은 모델(예: phi-2)로 전환하여 LLM 호출 오류를 해결하세요. Ollama 서버 실행 상태와 메모리 사용량도 확인해 주세요. → 산출물 sessions/2026-06-05T14-28/developer.md
+- [2026-06-05] trend_sniper.py를 단독 실행해 설정 파일, 키워드 목록 및 LLM 연결 상태 확인 후 오류 원인을 파악하고 수정. .gitignore에 시크릿 파일 포함 여부 재확인하며, Ollama 서버 상태와 메모리 사용량도 점검 → 산출물 sessions/2026-06-05T16-47/developer.md
+- [2026-06-05] Mobile Kit 프로젝트에서 App.tsx에 하단 탭 내비게이션 구현 및 디자인 브리프의 타이포그래피(SF Pro Display 헤더, SF Pro Text 본문)과 색상(#1C1C1E Primary, #6E6E73 Secondary) 적용한 카드 컴포넌트 개발 → 산출물 sessions/2026-06-05T17-02/developer.md
+- [2026-06-05] Apple Developer API 키 발급 절차 확인 및 시크릿 파일 생성, .gitignore에 추가해 API 키 유출 방지 → 산출물 sessions/2026-06-05T17-32/developer.md
 ### 💼 현빈
 - [2026-06-03] 수집된 데이터 분석 후 현재 가장 가치 있는 단일 작업 1개 결정 및 실행 계획 수립 → 산출물 sessions/2026-06-03T18-32/business.md
 - [2026-06-03] Researcher의 보고를 토대로 24시간 내 중복 없는 최적 단일 작업을 선정하고 실행 계획 수립 → 산출물 sessions/2026-06-03T19-02/business.md
@@ -20,7 +21,7 @@ _업데이트: 2026. 6. 6. 오전 12:04:04_
 - [2026-06-03] 회사 목표, _agents/{id}/goal.md 내용, 최근 의사결정 기록 및 메모리 검토하여 오늘 가장 가치 있는 단일 작업 1개 선정하고, 담당 에이전트 지정. 24시간 내 동일 산출물 반복 여부 확인 → 산출물 sessions/2026-06-03T21-17/secretary.md
 - [2026-06-04] 회사 목표, _agents/{id}/goal.md의 개인 목표, 최근 의사결정 및 메모리를 종합하여 현재 가장 가치 있는 단일 작업을 결정하고 해당 작업을 적절한 에이전트에게 명시적으로 할당 → 산출물 sessions/2026-06-04T00-19/secretary.md
 ### 🔍 Researcher
-- [2026-06-03] 회사 목표, _agents/{id}/goal.md 분석, 최근 의사결정 기록 및 메모리 확인을 통해 현재 가장 가치 있는 단일 작업을 결정하고, 해당 작업의 실행을 위한 에이전트 지정 → 산출물 sessions/2026-06-03T20-47/researcher.md
-- [2026-06-04] 최근 24시간 내 YouTube 및 Instagram 트렌드 데이터 수집과 경쟁사 콘텐츠 분석을 통해 유망한 주제 3개 선정 및 보고서 작성 → 산출물 sessions/2026-06-03T22-37/researcher.md
 - [2026-06-04] iOS 앱 경쟁사 분석, 사용자 리뷰 및 트렌드 데이터를 수집하여 핵심 콘텐츠 주제 3가지 선정 및 보고서 작성 → 산출물 sessions/2026-06-04T15-00/researcher.md
+- [2026-06-05] iOS 앱 시장 트렌드 분석, 경쟁사 콘텐츠 구조 및 사용자 니즈 조사하여 핵심 기능과 콘텐츠 전략 3가지 제안 → 산출물 sessions/2026-06-05T15-47/researcher.md
+- [2026-06-05] Apple App Store API를 통해 인기 iOS 앱의 데이터(다운로드 수, 리뷰, 카테고리)를 수집하고 핵심 트렌드 및 사용자 니즈를 요약 보고 → 산출물 sessions/2026-06-05T17-47/researcher.md
 
