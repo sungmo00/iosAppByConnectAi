@@ -1,15 +1,16 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 6. 5. 오전 7:12:23_
+_업데이트: 2026. 6. 6. 오전 12:04:04_
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
 - [2026-06-04] YouTube 트렌드 페이지 직접 확인 후 현재 3개 최신 유망 키워드 선정, iOS 앱 콘텐츠 분석 보고서 작성 → 자격증명 부족으로 차단됨
 ### 🎨 Designer
 - [2026-06-04] iOS 앱 메인 화면 모던 UI 디자인 브리프 작성 (하단 탭 내비게이션 및 기본 화면 요소 구조화) → 산출물 sessions/2026-06-04T22-02/designer.md
+- [2026-06-04] 디자인 브리프의 타이포그래피 섹션 구체적 스펙 명시 및 레퍼런스 이미지 5장 추가하여 완성 → 산출물 sessions/2026-06-04T22-17/designer.md
 ### 💻 코다리
-- [2026-06-04] Researcher의 iOS 앱 경쟁사 분석 보고서를 토대로 Mobile Kit 프로젝트 구조 설정 및 기본 화면 개발 시작 → 산출물 sessions/2026-06-04T20-48/developer.md
-- [2026-06-04] trend_sniper.py 단독 실행하여 설정·키워드·LLM 연결 상태를 확인하고, 오류 원인을 파악한 후 수정하여 정상 작동하도록 재시도 → 산출물 sessions/2026-06-04T21-30/developer.md
-- [2026-06-04] Mobile Kit 프로젝트에 디자인 브리프 기반 iOS 메인 화면 기본 UI 구현 시작 (Expo, Bottom Tab Navigator 적용) → 산출물 sessions/2026-06-04T22-02/developer.md
+- [2026-06-05] 카드 컴포넌트 구현 완료 및 하단 탭 내비게이션 통합 작업 진행. 디자인 브리프의 타이포그래피 스펙(#1C1C1E, #6E6E73) 및 폰트 SF Pro Display/Text 적용하고 Expo Bottom Tab Navigator 구현 완료 → 산출물 sessions/2026-06-05T08-51/developer.md
+- [2026-06-05] settings.json의 connectAiLab.streamFirstTokenTimeoutSec 값을 600으로 수정하고 gemma2:2b 같은 소형 모델로 전환하여 LLM 호출 시간 초과 오류 해결 → 산출물 sessions/2026-06-05T11-44/developer.md
+- [2026-06-05] settings.json에서 connectAiLab.streamFirstTokenTimeoutSec 값이 600으로 정확히 설정되었는지 확인하고, gemma2:2b 대신 더 작은 모델(예: phi-2)로 전환하여 LLM 호출 오류를 해결하세요. Ollama 서버 실행 상태와 메모리 사용량도 확인해 주세요. → 산출물 sessions/2026-06-05T14-28/developer.md
 ### 💼 현빈
 - [2026-06-03] 수집된 데이터 분석 후 현재 가장 가치 있는 단일 작업 1개 결정 및 실행 계획 수립 → 산출물 sessions/2026-06-03T18-32/business.md
 - [2026-06-03] Researcher의 보고를 토대로 24시간 내 중복 없는 최적 단일 작업을 선정하고 실행 계획 수립 → 산출물 sessions/2026-06-03T19-02/business.md
